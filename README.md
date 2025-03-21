@@ -45,3 +45,5 @@ Upload the provided Arduino sketch to the Arduino Uno board.
 Connect all components as per the circuit diagram.
 
 Power up the Arduino and observe the LCD display, LEDs, and buzzer functioning according to the distance detected.
+
+[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/Automatic-Water-Filling-System.git)
